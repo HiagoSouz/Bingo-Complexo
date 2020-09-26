@@ -101,7 +101,7 @@ int main()
         }
     }
 
-    for (i = 0; i < 75; i++) //SORTEADOR NÃšMEROS
+    for (i = 0; i < 75; i++) //SORTEADOR NÚMEROS
     {
         pedrasSorteadas[i] = (rand() % 75) + 1;
 
